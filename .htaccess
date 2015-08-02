@@ -1,0 +1,5 @@
+AuthUserFile /home9/harris/htpasswd
+AuthGroupFile /dev/null
+AuthName "CIS 111"
+AuthType Basic
+require user 111
